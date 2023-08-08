@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_color">#86b0dd</color>
+    <color name="_7cb0e1">#7cb0e1</color>
+    <color name="_1a1824">#1a1824</color>
+    <color name="_8f92a1">#8f92a1</color>
+    <color name="_b4b3b3">#b4b3b3</color>
+    <color name="_212121">#212121</color>
+    <color name="_acacac">#acacac</color>
+    <color name="_343434">#343434</color>
+    <color name="_242a37">#242a37</color>
+    <color name="_86b0dd">#86b0dd</color>
+    <color name="_1a707070">#1a707070</color>
+    <color name="_878787">#878787</color>
+
+    <color name="pink_light">#fa68ef</color>
+    <color name="pink">#ff36ca</color>
+    <color name="green">#00c408</color>
+    <color name="dark_slate_blue">#132955</color>
+    <color name="dark_indigo">#0b1e43</color>
+    <color name="trans">#00000000 </color>
+    <color name="dusk_yellow">#ffc922 </color>
+    <color name="light_grey">#d3d3d3</color>
+    <color name="steel">#717e99</color>
+    <color name="red">#ee3b3b</color>
+    <color name="yellow_brown">#beb100</color>
+    <color name="light_navy">#163471</color>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.fetchdata.views.home.Home"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_second"
+            app:destination="@id/second"
+            app:enterAnim="@anim/enter"
+            app:exitAnim="@anim/exit"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/second"
+        android:name="com.example.fetchdata.views.second.Second"
+        android:label="Second">
+
+        <action
+            android:id="@+id/action_second_to_details"
+            app:destination="@id/details"
+            app:enterAnim="@anim/enter"
+            app:exitAnim="@anim/exit"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/details"
+        android:name="com.example.fetchdata.views.details.Details"
+        android:label="Details">
+    </fragment>
+</navigation>

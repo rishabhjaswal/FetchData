@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FetchData</string>
+    <string name="session_expired">Session Expired!</string>
+    <string name="ok">Ok</string>
+    <string name="home">Home</string>
+    <string name="support">Support</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="terms_condition"><![CDATA[Terms & Conditions]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="some_error_occured">Some error occurred!</string>
+    <string name="your_device_offline">You are offline.</string>
+    <string name="demo_to_fetch_data_from_api_and_showing_data_in_recycler_view">Demo to fetch data from API and show data in recycler view</string>
+</resources>
